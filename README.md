@@ -27,7 +27,7 @@ This implies there are several hundreds of pages of manuals that I can work thro
 
 There are more exercises upcoming for Google Cloud, Azure, Digital Ocean, Puppet, and others, and they will be easier to master after a little more practice with one set of tools.
 
-Useful content will be shared by using https://github.com/Yvonne-Richardson. 
+Useful content will be shared by using https://github.com/Yvonne-Richardson and https://github.com/Yvonne-Richardson/liteinthecloud.
 
 Websites and experiments will be located at https://www.liteinthecloud.com/ and described in their respective github repositories.
 
