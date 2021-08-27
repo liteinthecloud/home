@@ -1,7 +1,7 @@
 # liteinthecloud
 ## Twenty Different Hello Worlds
 
-The Cloud Genius Bootcamp is a whirlwind introduction to cloud technology. Concepts are like PAAS, IAAS, and SAAS can be gleaned from sources like Wikipedia.  However, tools and processes that are used to develop and maintain these products are more numerous than can be fully absorbed in a college quarter.  Consequently, there is a quick hands-on exploration of the tool or process, with resources mentioned in context so that you can study more deeply on your own time.  This implies that the outcomes of the exercises are basically empty. 
+The Cloud Genius Bootcamp is a whirlwind introduction to cloud technology. Concepts like PAAS, IAAS, and SAAS can be gleaned from sources like Wikipedia.  However, tools and processes that are used to develop and maintain these products are more numerous than can be fully absorbed in a college quarter.  Consequently, there is a quick hands-on exploration of the tool or process, with resources mentioned in context so that you can study more deeply on your own time.  This implies that the outcomes of the exercises are basically empty. 
 
 That's ok, it's like a phone company that wires the ends of a telephone conversation together, but the conversation itself is not within the company's purview. The cloud ends, so to speak, where the content of the html page begins. Cloud DevOps can ensure connectivity and availability, and enable business Web Developers to be responsible for content and format.
 
