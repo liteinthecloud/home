@@ -1,4 +1,3 @@
-# liteinthecloud
 ## Twenty Different Hello Worlds
 
 The Cloud Genius Bootcamp is a whirlwind introduction to cloud technology. Concepts like PAAS, IAAS, and SAAS can be gleaned from sources like Wikipedia.  However, tools and processes that are used to develop and maintain these products are more numerous than can be fully absorbed in a college quarter.  Consequently, there is a quick hands-on exploration of the tool or process, with resources mentioned in context so that you can study more deeply on your own time.  This implies that the outcomes of the exercises are basically empty. 
@@ -31,3 +30,6 @@ There are more exercises upcoming for Google Cloud, Azure, Digital Ocean, Puppet
 Useful content will be shared by using https://github.com/Yvonne-Richardson. 
 
 Websites and experiments will be located at https://www.liteinthecloud.com/ and described in their github directories.
+
+
+The CloudGenius bootcamp is located at https://cloudgenius.app/.
