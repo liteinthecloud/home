@@ -21,7 +21,7 @@ Regardless of previous experience, the tools that I have encountered so far in t
 - Heroku
 - Chef
 
-This implies there are several hundreds of pages of manuals that I can work through so that I can produce, maintain, and discuss more than the empty Web pages that I have created. 
+This implies there are several hundreds of pages of manuals that I can work through so that I can produce, maintain, and discuss more items than the empty Web pages that I have created. 
 
 ---
 
