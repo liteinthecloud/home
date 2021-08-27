@@ -29,7 +29,7 @@ There are more exercises upcoming for Google Cloud, Azure, Digital Ocean, Puppet
 
 Useful content will be shared by using https://github.com/Yvonne-Richardson. 
 
-Websites and experiments will be located at https://www.liteinthecloud.com/ and described in their github directories.
+Websites and experiments will be located at https://www.liteinthecloud.com/ and described in their respective github repositories.
 
 
 The CloudGenius bootcamp is located at https://cloudgenius.app/.
