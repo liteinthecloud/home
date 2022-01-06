@@ -1,12 +1,11 @@
 ## Twenty Different Hello Worlds
-
-The Cloud Genius Bootcamp is a whirlwind introduction to cloud technology. Concepts like PAAS, IAAS, and SAAS can be gleaned from sources like Wikipedia.  However, tools and processes that are used to develop and maintain these products are more numerous than can be fully absorbed in a college quarter.  Consequently, there is a quick hands-on exploration of the tool or process, with resources mentioned in context so that you can study more deeply on your own time.  This implies that the outcomes of the exercises are basically empty. 
+I recently completed a whirlwind introduction to cloud technology. Concepts like PAAS, IAAS, and SAAS can be gleaned from sources like Wikipedia.  However, tools and processes that are used to develop and maintain these products are more numerous than can be fully absorbed in a college quarter.  Consequently, there is a quick hands-on exploration of the tool or process, with resources mentioned in context so that you can study more deeply on your own time.  This implies that the outcomes of the exercises are basically empty. 
 
 That's ok, it's like a phone company that wires the ends of a telephone conversation together, but the conversation itself is not within the company's purview. The cloud ends, so to speak, where the content of the html page begins. Cloud DevOps can ensure connectivity and availability, and enable business Web Developers to be responsible for content and format.
 
 ---
 
-Regardless of previous experience, the tools that I have encountered so far in this course are:
+Regardless of previous experience, the tools that I have encountered so far are:
 - Linux 
 - Key pairs and security groups
 - AWS Elastic Cloud (EC2)
@@ -30,6 +29,3 @@ There are more exercises upcoming for Google Cloud, Azure, Digital Ocean, Puppet
 Useful content will be shared by using https://github.com/Yvonne-Richardson and https://github.com/Yvonne-Richardson/liteinthecloud.
 
 Websites and experiments will be located at https://www.liteinthecloud.com/ and described in their respective github repositories.
-
-
-The CloudGenius bootcamp is located at https://cloudgenius.app/.
